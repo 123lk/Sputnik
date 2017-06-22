@@ -2,6 +2,24 @@ h1 {
   color: blue;
 }
 
+#navbar-header {
+  background-color: white;
+  border-color: white;
+}
+
 #carousel-button {
   border-radius: 2em;
 }
+
+.carousel-indicators {
+  text-align: left;
+}
+
+#services-button {
+  border-radius: 2em;
+}
+
+#explore-services {
+  padding-left: 50px;
+}
+
