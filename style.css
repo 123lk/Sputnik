@@ -7,6 +7,10 @@ h1 {
   border-color: white;
 }
 
+#nav-container {
+  margin: 0 10% 0 19%;
+}
+
 #bs-example-navbar-collapse-1 {
   border-color: white;
 }
