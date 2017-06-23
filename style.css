@@ -75,21 +75,33 @@ services section left
 
 .services-title {
   font-weight: 100;
+  margin-left: 10%;
 }
 
 #services-body-text {
   font-size: 18px;
   font-weight: 300;
   max-width: 400px;
+  margin-left: 10%;
 }
 
 .services-lower-section {
   margin-bottom: 3em;
+  margin-left: 10%;
 } 
+
+#pledge-title {
+  margin-left: 10%;
+}
+
+#aims-title {
+  margin-left: 10%;
+}
 
 #aims-text {
   font-weight: 300;
   font-size: 18px;
+  margin-left: 5.5%;
 }
 
 /*********************
