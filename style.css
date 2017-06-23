@@ -57,7 +57,7 @@ carousel
 }
 
 /*********************
-services section
+services section left
 **********************/
 
 #services-button {
@@ -90,10 +90,21 @@ services section
   font-size: 18px;
 }
 
+/*********************
+services section right
+**********************/
+
 #right-pic-services {
-  width: 570px;
+  width: 590px;
 }
 
+#right-panel-services {
+  padding-left: 0;
+}
+
+/*********************
+media queires
+**********************/
 
 
 @media (max-width: 768px) {
