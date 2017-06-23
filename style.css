@@ -1,6 +1,6 @@
-h1 {
-  color: blue;
-}
+/*********************
+nav
+**********************/
 
 #navbar-header {
   background-color: white;
@@ -18,6 +18,10 @@ h1 {
 .navbar-default .navbar-nav>li>a {
   padding-top: 2em;
 }
+
+/*********************
+carousel
+**********************/
 
 #carousel-button {
   border-radius: 2em;
@@ -52,13 +56,45 @@ h1 {
   font-weight: 100;
 }
 
+/*********************
+services section
+**********************/
+
 #services-button {
   border-radius: 2em;
+  padding: 8px 40px;
+  border: 1px solid #35363B;
 }
 
 #explore-services {
   padding-left: 50px;
+  text-decoration: underline;
 }
+
+.services-title {
+  font-weight: 100;
+}
+
+#services-body-text {
+  font-size: 18px;
+  font-weight: 300;
+  max-width: 400px;
+}
+
+.services-lower-section {
+  margin-bottom: 3em;
+} 
+
+#aims-text {
+  font-weight: 300;
+  font-size: 18px;
+}
+
+#right-pic-services {
+  width: 570px;
+}
+
+
 
 @media (max-width: 768px) {
   #carousel-button {
